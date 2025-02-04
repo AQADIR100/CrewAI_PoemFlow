@@ -6,13 +6,16 @@ The project randomly generate poem and saves it.
 
 Python 3.12.8 is used. 
 
-### Customizing
+## Customizing
 
 Add your `GEMINI_API_KEY` and 'model' into the `.env` file.
 
 
 ## Running the Project
 
+```bash
 uv run kickoff
+```
+
 
 Let's create wonders together with the power and simplicity of crewAI.
